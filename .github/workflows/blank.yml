@@ -26,4 +26,4 @@ jobs:
         fi
 
     - name: Run JavaScript file
-      run: node yourfile.js
+      run: node New.js
